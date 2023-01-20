@@ -1,0 +1,3 @@
+This repository houses the Python code used for the particle analysis in the manuscript *A Platform for In Situ Synthesis in a STEM* by Ondrej Dyck, Andrew R. Lupini, and Stephen Jesse. [url when published]
+
+The particle analysis is performed using the `Particle_analysis.ipynb` notebook. Input images are contained in the `Images` folder. Outputs from the code are stored in the `Output` folder. The `Combining_data.ipynb` notebook reads all the outputs and plots the combined histogram.
